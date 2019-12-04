@@ -1,3 +1,13 @@
+#De opdracht
+Voor deze opdracht willen we een formulier zien waarmee een lijst kan worden gevuld met "tags", deze tags moeten ook verwijderd kunnen worden uit deze lijst. Belangrijke punten zijn hierbij ook accessibility, gebruiksvriendelijkheid en een zo generiek mogelijke opzet zodat de functionaliteit in de toekomst uitgebreid kan worden. Er zijn een aantal bonus criteria waar je creatief mee om kunt gaan om de opdracht wat complexer te maken, voor de review is het makkelijk om te werken met een tool als Codesandbox. Je bent vrij om zelf te bedenken hoe je de React code wilt compilen en renderen. Besteed niet meer dan twee uur aan deze opdracht.
+
+Criteria:
+- Laatste versie React
+- State en lifecyles (bij voorkeur met Hooks)
+- Bonus: Styling (bij voorkeur met "CSS-in-JS"-achtige oplossing)
+- Bonus: Gebruik een mock API om de lijst dynamisch te verwerken
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
